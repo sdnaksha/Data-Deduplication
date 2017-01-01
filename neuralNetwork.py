@@ -1,11 +1,11 @@
 ###
-# xor.py
+# neuralNetwork.py
 #
-# author: Kristina Striegnitz
+# author: Suman Nakshatri 
 #
-# version: 3/3/2010
+# version: 15/3/2016
 #
-# Simple example of training a neural network calculating XOR using
+# Training a neural network using
 # the pybrain package.
 ###
 from pybrain.datasets import SupervisedDataSet

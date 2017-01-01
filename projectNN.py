@@ -13,7 +13,7 @@
 # the License for the specific language governing rights and limitations
 # under the License.
 # 
-# The Original Software is: "projectNN.py"
+# The Original Software is: "febrl"
 # 
 # The Initial Developers of the Original Software are:
 #   Peter Christen
